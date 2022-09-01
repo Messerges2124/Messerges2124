@@ -1,7 +1,8 @@
 <h2> Hey! 👋</h2>
 
-I'm Nicholas Messerges!
--<i>Currently:</i> BS CS Student at Iowa State University
+I'm Nicholas Messerges !
+
+- <i>Currently:</i> BS CS Student at Iowa State University
 
 <h2>💻 I'm Currently Learning</h2>
 
@@ -15,6 +16,9 @@ __James B Conant__
 - AP Computer Sci A
 - Mobile Application Development
 - Indepandent Study Computer Science 
+
+<h2> 📫 How To Reach Me </h2>
+<a href="mailto:tnmesserges@gmail.com">![tnmesserges@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 
