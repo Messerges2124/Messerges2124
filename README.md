@@ -1,4 +1,23 @@
-<h2> Hey! <h2>  
+<h2> Hey! 👋</h2>
+
+I'm Nicholas Messerges!
+-<i>Currently:</i> BS CS Student at Iowa State University
+
+<h2>💻 I'm Currently Learning</h2>
+
+__Iowa State University__
+- COM S 127
+
+<h2>🏫 Past Course Work</h2>
+
+__James B Conant__
+- AP Computer Sci Princ.
+- AP Computer Sci A
+- Mobile Application Development
+- Indepandent Study Computer Science 
+
+
+
 <!--
 **Messerges2124/Messerges2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
