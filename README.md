@@ -18,6 +18,7 @@ __James B Conant__
 - Indepandent Study Computer Science 
 
 <h2> 📫 How To Reach Me </h2>
+
 <a href="mailto:tnmesserges@gmail.com">![tnmesserges@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
