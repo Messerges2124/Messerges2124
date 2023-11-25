@@ -8,6 +8,9 @@ I'm Nicholas Messerges !
 
 __Iowa State University__
 - COM S 127
+- COM S 228
+- COM S 230
+- COM S 309
 
 <h2>🏫 Past Course Work</h2>
 
@@ -17,10 +20,6 @@ __James B Conant__
 - Mobile Application Development
 - Indepandent Study Computer Science
   
-__Iowa State University__
-- COM S 228
-- COM S 230
-- COM S 309
 
 <h2> 📫 How To Reach Me </h2>
 
