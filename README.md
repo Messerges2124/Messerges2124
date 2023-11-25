@@ -16,8 +16,8 @@ __James B Conant__
 - AP Computer Sci A
 - Mobile Application Development
 - Indepandent Study Computer Science
-
-  __Iowa State University__
+  
+__Iowa State University__
 - COM S 228
 - COM S 230
 - COM S 309
