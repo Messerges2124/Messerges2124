@@ -11,6 +11,9 @@ __Iowa State University__
 - COM S 228
 - COM S 230
 - COM S 309
+- COM S 311
+- COM S 321
+- COM S 319
 
 <h2>🏫 Past Course Work</h2>
 
