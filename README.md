@@ -14,6 +14,8 @@ __Iowa State University__
 - COM S 311
 - COM S 321
 - COM S 319
+- COM S 327
+- COMS 331
 
 <h2>🏫 Past Course Work</h2>
 
